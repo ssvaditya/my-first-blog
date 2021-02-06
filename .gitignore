@@ -1,0 +1,31 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+#Env
+.env
+django1/
+venv/
+
+
+# Database
+db.sglite3
+
+#Static folder at project root
+/static/
+
+#macOS
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+
+
+#Windows
+THumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+

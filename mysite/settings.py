@@ -25,7 +25,7 @@ SECRET_KEY = '3fd^s=u!s)_k#z%h(apt8gcf%*lmt+5n1=0%hqnd0%zz67h%u='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.blogpython.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
